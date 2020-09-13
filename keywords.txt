@@ -1,0 +1,58 @@
+###########################################
+# Syntax Coloring Map For Surenoo
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Surenoo	KEYWORD1
+SURENOO	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+beginrgb	KEYWORD2
+setrgb	KEYWORD2
+init	KEYWORD2
+blinkrgb	KEYWORD2
+noblinkrgb	KEYWORD2
+setgrouppwm	KEYWORD2
+
+clearlcd	KEYWORD2
+homelcd	KEYWORD2
+noDisplaylcd	KEYWORD2
+displaylcd	KEYWORD2
+noBlinklcd	KEYWORD2
+blinklcd	KEYWORD2
+noCursorlcd	KEYWORD2
+cursorlcd	KEYWORD2
+scrollDisplayLeftlcd	KEYWORD2
+scrollDisplayRightlcd	KEYWORD2
+printLeftlcd	KEYWORD2
+printRightlcd	KEYWORD2
+leftToRightlcd	KEYWORD2
+rightToLeftlcd	KEYWORD2
+shiftIncrementlcd	KEYWORD2
+shiftDecrementlcd	KEYWORD2
+autoscrolllcd	KEYWORD2
+noAutoscrolllcd	KEYWORD2
+createCharlcd	KEYWORD2
+createCharlcd	KEYWORD2
+setCursorlcd	KEYWORD2
+setBacklight	KEYWORD2
+commandlcd	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+
+BLUE	LITERAL1
+GREEN	LITERAL1
+RED	LITERAL1
+PINK	LITERAL1
+BLACK	LITERAL1
+WHITE	LITERAL1
+LIGHTBLUE	LITERAL1
+LIGHTGREEN	LITERAL1

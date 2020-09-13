@@ -1,0 +1,24 @@
+{
+  "name": "Surenoo",
+  "version": "0.0.0",
+  "keywords": "i2c, lcd, surenoo, 16x2",
+  "description": "Library for Surenoo rgb 16x2 lcd display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pe1mxp/Surenoo"
+  },
+  "frameworks": "arduino",
+  "authors":
+    {
+        "name": "Roelf Brouwer",
+        "email": "pe1mxp@hotmail.com",
+        "url": "https://https://github.com/pe1mxp/Surenoo",
+        "maintainer": true
+    },
+  "platforms":
+  [
+    "atmelavr",
+    "atmelmegaavr",
+  ]
+}
