@@ -8,4 +8,4 @@ is for 4 LED's and the LCD has only 3 LED's. Port 4
 of the chip is not connected. So eventually the 4th
 port can be used for another using eg. buzzer when
 soldered. For noise reducing on the suply line I have
-mounted an extra 100pf capacitator between V+ and GND.
+mounted an extra 100nf capacitator between V+ and GND.
